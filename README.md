@@ -1,1 +1,1 @@
-# ArduinoHShifterPython
+# Arduino Uno - HShifter - Python
